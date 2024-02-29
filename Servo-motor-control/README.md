@@ -39,7 +39,7 @@ To implement the servo motor control project:
 
 4. **Connect the Components:**
 
-   Connect the servo motor to the specified pins on the Arduino Uno and the prototyping board as shown in the circuit diagram.
+   Connect the servo motor to the specified pins on the Arduino Uno and the prototyping board as shown in the circuit diagram (diagram available for using one servo motor, ).
 
 5. **Upload the Code:**
 
