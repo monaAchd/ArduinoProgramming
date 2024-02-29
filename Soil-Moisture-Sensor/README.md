@@ -37,6 +37,6 @@ To implement the solution using Arduino and the soil moisture sensor:
 
 3. Copy and paste the code from soil_moisture.ino in the Soil-Moisture-Sensor folder into the Arduino IDE.
 
-4. Connect the soil moisture sensor and LED to the specified pins on the Arduino board as shown in the circuit diagram.
+4. Connect the soil moisture sensor and LED to the specified pins on the Arduino board.
 
 5. Upload the code to the Arduino board.
